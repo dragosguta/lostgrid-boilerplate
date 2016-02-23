@@ -67,3 +67,7 @@ Thumbs.db
 pids
 *.pid
 *.seed
+
+# Ignore files/folders built by gulp
+dist/css/vendor
+dist/js/vendor
