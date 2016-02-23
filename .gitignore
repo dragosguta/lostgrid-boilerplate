@@ -69,5 +69,4 @@ pids
 *.seed
 
 # Ignore files/folders built by gulp
-dist/css/vendor
-dist/js/vendor
+dist
